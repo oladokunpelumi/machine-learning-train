@@ -160,5 +160,6 @@ plt.ylabel('Predicted Calories Burned')
 plt.title('Actual vs. Predicted Calories Burned')
 plt.show()
 
-!git rebase -i
+
+
 
